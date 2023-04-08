@@ -1,2 +1,2 @@
-# cloning-project
-This a cloning project that only involves html and css
+# lestergith.github.io
+This is a website cloning project only using html and css
